@@ -1,5 +1,5 @@
 The BibleStories App is an android application, which enable the uploading of youtube videos and displaying through a user friendly mobile app.
-
+## Inspiration
 Kids are the future leaders, hence their education in every fields will positively change the future because they will be knowledgeable to solve key challenges in the Society. I was  inspired by the need to educate and empower the kids through short videos with information and education materials. The bible stories app is indented to provide the Kids with the full understanding of the Bible through short animated videos.
 ## What it does
 The education videos are accessible through mobile app, which is connected to Youtube where kids can play and watch.
